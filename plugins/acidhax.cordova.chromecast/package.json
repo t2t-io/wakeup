@@ -1,0 +1,31 @@
+{
+  "name": "acidhax.cordova.chromecast",
+  "version": "0.0.1-alpha",
+  "description": "cordova-chromecast ==================",
+  "cordova": {
+    "id": "acidhax.cordova.chromecast",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exozet/cordova-chromecast.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.4.0"
+    }
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exozet/cordova-chromecast/issues"
+  },
+  "homepage": "https://github.com/exozet/cordova-chromecast#readme"
+}
